@@ -38,3 +38,11 @@ It also impotent for me to make sure I have enough time to study so I wont be pe
 -help; if you forgot a file name, or a command name, 'help' can help you find the name of the command you need.
 
 1.4 Forking and Cloning reflection
+
+
+
+1.In order to create a repo you need to click 'add' on you fork button on your Github page.
+then you need to click 'new repository' , then a new window will open, on the window you need to enter the repo' name, choose if it is Private or public, and the licencing. The last stage is to click 'create repository' and that's it for the first stage. Now, in order to fork, you will need to click on the 'fork' symbol which is on the right upper corner, and chose your name in the list in the new window that opened. now, you will click on 'copy http' button, which is on the lower right corner. and go to your terminal and paste the copy that you had done. and that's it, if you click 'ls' you will be able to see the files and folders that you can see throw your chrome.
+It is important to fork a repository instead of creating a new one because in the end of the proses we need to stage the changed code back to master, and in order to keep on the same code, and in older to prevent mistakes and glitches, we should use the same origin file.
+2.I think the main issue I have is that it was allot of information for me, and I just wasn't sure if what i'm doing is the right thing.
+ 
