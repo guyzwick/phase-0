@@ -1,0 +1,55 @@
+body {
+ font-family: Cursive; 
+ background-color:#b3cccc
+}
+
+div {
+	height: 70px;
+	border-radius: 5px;
+	display:inline-block;
+	color: black;
+	border: 1.5px solid black;
+	background-color: #ccb3ff;
+    padding: 5px;
+    margin: auto;
+    font-family: Impact;
+}
+
+header {
+  background-color: #b3b3ff
+  border: 1.5px solid black;
+  padding: 5px;
+}
+
+a {
+
+  display: inline-block;
+  border: 1.5px solid black;
+  padding: 5px;
+}
+
+p{
+  background-color:#b3d9ff;
+  display: inline-block;
+  border: 1.5px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+footer {
+  background-color:#fff2e5;
+  border: 1.5px solid black;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+nav {
+    height: 80px;
+    width: 200px;
+	border-radius: 7px;
+	display:inline-block;
+	background-color: #ff9999;
+	margin-bottom: 20px;
+	margin-left: 40px;
+}
