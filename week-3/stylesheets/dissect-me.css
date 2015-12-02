@@ -1,6 +1,6 @@
 body {
  font-family: Cursive; 
- background-color:#b3cccc
+ background-color:#b3cccc;
 }
 
 div {
@@ -16,7 +16,7 @@ div {
 }
 
 header {
-  background-color: #b3b3ff
+  background-color: #b3b3ff;
   border: 1.5px solid black;
   padding: 5px;
 }
