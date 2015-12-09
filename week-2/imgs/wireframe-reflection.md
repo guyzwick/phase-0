@@ -1,3 +1,5 @@
+![Site Map](/week-2/imgs/wireframe-blog-index.png)
+
 	•	What is a wireframe?
 	•	Wireframe is a good way to build your site step by step. It let you view on how to do things in the right hierarchy. By defining which information is the most important, you will be able to wireframe in the right way according to the importance of the information hierarchy. 
 
