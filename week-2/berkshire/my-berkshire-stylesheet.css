@@ -1,0 +1,98 @@
+* {
+  color:#000080;
+  background-color: white;
+ }
+a:link {
+  color:#800080;
+}
+a:visited {
+    color: #FF0000;
+}
+#left-column{
+  float:left;
+    display:inline-block;s
+
+}
+#right-column{
+  float:right;
+    display:inline-block;
+}
+li {
+  margin: 25px;
+}
+footer{
+  clear:both;
+}
+header {
+  margin:auto;
+  font-weight: bold;
+  font-size: 20px; 
+  text-align: center;
+}
+header div {
+  font-size: 45px;
+  display:inline-block;
+ 
+  }
+  #heading-line-2{
+    margin:0px;
+    padding:0px;
+    font-size:10px;
+    display:block;
+  }
+  
+   #heading-line-4{
+    margin-bottom:5px;
+    padding:0px;
+    font-size:15px;
+    font-weight:800;
+    display:block;
+  }
+  span {
+    font-size:10px;
+    display:inline-block;
+  }
+  footer {
+     text-align: center;
+  }
+  #line-break{
+    margin:auto;
+    width:100%;
+    border:1px solid gray;
+  }
+  img {
+    display:inline-block;
+    margin:0px;
+    padding: 0px;
+
+  }
+  a{
+      display:block;
+    margin:auto;
+    padding: 0px;
+  }
+  #footer {
+    position:relative;
+    margin:0px;
+    padding:0px;
+    font-size:12px;
+    display:block;
+  }
+  
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+The most important is to link it in the right way, by writing the link right; <link rel="stylesheet" type="text/css" href="mystyle.css”>. It is also important to make the right reference if you create ’span’ or different ‘class’ so the css and the HTML will be link right and the result will be as you desire.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+I can’t put the finger on a specific tricks that I learned, but i can say that by practicing allot you get more familiar in how to design your file to be as you want it to be. It was’t it that hard, we did had 2 things we got stuck on, but in general work’ flows.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+We use different commandes like ‘font-size’ or ‘color’, “text-align” and many other to put the text as we want it, where we want it.
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+Of-course we did, I don’t think you can compel the challenge without having “.leftColumn” class, and ‘a’a class or even ‘span’ class. the only way to specify the work and make it exact is buy using classes. More classes, more exact work.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+We did had one or two adjustment to make vs the real site, but those were more just a font-size miner changes, so I would say that we were very close to the original, and clean as the original.
+
+*/
