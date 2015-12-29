@@ -1,0 +1,27 @@
+
+*{
+font-family:arial;
+  }
+header {
+  font-family:impact;
+  background-color: green;
+  text-align: center;
+}
+.column-1{
+  background-color: red;
+   float: left;
+    margin:0.5em;
+        width:45%;
+}
+.column-2{
+  background-color: blue;
+   float: left;
+    margin:0.5em;
+     width:45%;
+}
+
+footer {
+    background-color: yellow;
+  text-align: center;
+  clear:both;
+}
