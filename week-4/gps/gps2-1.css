@@ -4,24 +4,38 @@ font-family:arial;
   }
 header {
   font-family:impact;
-  background-color: green;
+  background-color:  #00cc99;
   text-align: center;
+  border: 1.5px solid black;
+    border-radius: 5px;
+     padding: 5px;
+     width: 95%;
 }
 .column-1{
-  background-color: red;
+  background-color:  #00aaff;
    float: left;
     margin:0.5em;
         width:45%;
+        border: 1.5px solid black;
+          border-radius: 5px;
+          padding: 5px;
 }
 .column-2{
-  background-color: blue;
+  background-color: #aa80ff;
    float: left;
     margin:0.5em;
      width:45%;
+     border: 1.5px solid black;
+       border-radius: 5px;
+        padding: 5px;
 }
 
 footer {
-    background-color: yellow;
+    background-color:  #809fff;
   text-align: center;
   clear:both;
+  border: 1.5px solid black;
+    border-radius: 5px;
+     padding: 5px;
+          width: 95%;
 }
