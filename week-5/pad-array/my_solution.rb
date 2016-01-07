@@ -63,3 +63,22 @@ end
 
 
 # 4. Reflection
+=begin
+Were you successful in breaking the problem down into small steps?
+We were. sometime you right your Pseudocode, and then you get back to it and change it. It is a working progress which takes time. Normally on the second time that you are writing it, you are getting more into smaller details.
+
+Once you had written your pseudocode, were you able to easily translate it into code? What difficulties and successes did you have?
+Yes, from the pseudocode to the ruby script that wasn't hard, the hard part it to think on all the small details that are hidden inside the challenge, and to try to break it down to as more detail and small ingredients as you can.
+
+Was your initial solution successful at passing the tests? If so, why do you think that is? If not, what were the errors you encountered and what did you do to resolve them?
+Well, we were successful in the first time, all we got an error, it was just a typo in one of the lines, so after getting a bit crazy for a bit in not understanding “why isn't it working?!” we got it and fix it.
+
+When you refactored, did you find any existing methods in Ruby to clean up your code?
+Yes, in one of the steps modified the array and called to a new variable, we discovered that Ruby doesn't really need this step, and the code works just fine without it.
+
+How readable is your solution? Did you and your pair choose descriptive variable names?
+It is readable alright, I think that anyone can read it. Yes we choose descriptive variable names. 
+
+What is the difference between destructive and non-destructive methods in your own words?
+Destructive, or “Bang” is method that change the original list, array, hash, parameter, variable, and make the modified change permanent. And non-destructive method are method that are just changing the method when they run it, or add for one-time, and do not make any changes to the original variables .
+=end
