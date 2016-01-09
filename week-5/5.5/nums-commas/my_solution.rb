@@ -46,3 +46,22 @@ def separate_comma(number)
   formatted_number 
 end
 p separate_comma(1000)
+
+=begin
+	
+What was your process for breaking the problem down? What different approaches did you consider?
+This one took time. I wasn't sure how to find a method that can ‘count’ every 3 numbers from right to left, and then a comma. I tried to find a method that will % the number in 3 and then will add a comma if needed, when this didn't work I tried different version until I understand that i should divide by 3 starting the second index, so, it took allot to understand it.
+ 
+Was your pseudocode effective in helping you build a successful initial solution?
+It was, I would say that the most important part for me with the pseudocode is that it help me put my feets back on the ground when you are stuck, it’s like a map. Many time that you get stuck you just try different things even without knowing why, you get stuck on that specific detail, and this is where the pseudocode is good, it help you to go back and read your instruction and try to find out where you did a wrong turn.
+
+What new Ruby method(s) did you use when refactoring your solution? Describe your experience of using the Ruby documentation to implement it/them (any difficulties, etc.). Did it/they significantly change the way your code works? If so, how?
+I tried to find better method than the ones that I used, but it didn't quite work, so I got back to the original. I just look up in the Ruby doc different method that perform the porpoise of the original methods only in a better way.
+
+How did you initially iterate through the data structure?
+I asked myself what is the purpose of this line of code, and which function is it executing, and by answering that I tried to find a better cleaner version of that.
+
+Do you feel your refactored solution is more readable than your initial solution? Why?
+I still need to do research on how to reactor better, it takes experiences and time. I think that yes
+	
+=end
