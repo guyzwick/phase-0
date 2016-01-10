@@ -36,12 +36,13 @@ end
 
 # Person 3
 def my_array_sorting_method(source)
-  source # This line is here to make sure all tests initially fail. Delete it when you begin coding.
+  source.map!{ |ele| ele.to_s}.sort 
 end
 
 def my_hash_sorting_method(source)
-   source # This line is here to make sure all tests initially fail. Delete it when you begin coding.
+   source.sort_by { |key, value| value } 
 end
+
 
 # Identify and describe the Ruby method(s) you implemented.
 #
