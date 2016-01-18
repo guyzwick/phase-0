@@ -24,22 +24,27 @@ class Profile
     puts "occupation: #{@occupation}"
     puts
   end
-
-  def what_is_name
-    @name
-  end
-
-  def change_my_name=(new_name)
-    @name = new_name
-  end
-
-  def what_is_occupation
-    @occupation
-  end
-
-  def change_my_occupation=(new_occupation)
-    @occupation = new_occupation
-  end
-
-
 end
+
+instance_of_profile = Profile.new
+puts "--- printing age -----"
+sleep 0.8
+p instance_of_profile.age
+
+puts "--- printing name ----"
+sleep 0.8
+p instance_of_profile.what_is_name
+
+puts "--- printing occupation ----"
+sleep 0.8
+p instance_of_profile.what_is_occupation
+
+puts "--- changing profile information ----"
+10.times do
+  print "."
+  sleep 0.1
+end
+
+instance_of_profile.age = 28
+instance_of_profile.change_my_name = "Taylor"
+instance_of_profile.change_my_occupation = "Rare Coins Trader"
