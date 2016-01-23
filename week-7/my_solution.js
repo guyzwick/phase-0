@@ -132,11 +132,15 @@ else {
 }
 
 // Reflection
-//
-//
-//
-//
-//
-//
-//
-//
+//1)What was the most difficult part of this challenge?
+
+// 1)The hardest part was to understand how to ‘prime’ an answer from the ‘player’ , and also to understand how to present a random key.
+
+// 2)What did you learn about creating objects and functions that interact with one another?
+// 2)I learn the object is the king in the JS kingdom, and basicly, I would say that almost everything is an object in JS, it’s all about object and functions. So that really different in JS, you still have an argument, an array, and hash, but it’s all around the object
+
+// 3)Did you learn about any new built-in methods you could use in your refactored solution? If so, what were they and how do they work?
+// 3) I used office hours to complete this challenge, to build my idea and to execute the vision that I had was too much for me, so This code that was in the inntel solution is almost the final code, after the refactoring part, minel changes
+
+// 4)How can you access and manipulate properties of objects?
+// 4)you need to ‘call’ specialty that object. The best next step is to create a new var from the property and then update that .
