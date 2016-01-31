@@ -5,7 +5,7 @@
 
 2)When would you use a one-to-one database? (Think generally, not in terms of the example you created).
 2)I would use it if there is only one connection needed, and there won't be any connection that might be added in the future.
-![Screen Shot of Schema](imgs/more-schemas2.png)
+![Screen Shot of Schema](more-schemas2.png)
 
 3)What is a many-to-many database?
 3)Many to many database means that there is many connection between the tables, and the information. so for the same table will have 2 or more connection to other tables.
@@ -16,4 +16,4 @@
 5)What is confusing about database schemas? What makes sense?
 5)Well, to be honest, when i start doing this challenge i was sure it's super easy, and it took me a while to get the many to many racyue. It took me some time to understand the need for the third table, like it was shown in the example that the only function the table have is to connect between the two tables, but i think i got it. 
 
-![Screen Shot of Schema](mgs/more-schemas3.png)
+![Screen Shot of Schema](more-schemas3.png)
