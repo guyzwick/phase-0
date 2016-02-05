@@ -1,7 +1,7 @@
 # Drawer Debugger
 
-# I worked on this challenge [by myself, with: ].
-# I spent [#] hours on this challenge.
+# I worked on this challenge [Byron Gage].
+# I spent [1] hours on this challenge.
 
 # Original Code
 
@@ -108,11 +108,20 @@ silverware_drawer.remove_item(spoon) #What is happening when you run this the fi
 spoon.eat
 puts spoon.clean #=> this should be false
 
-# DRIVER TESTS GO BELOW THIS LINE
-
-
-
-
-
-
 # Reflection
+
+# 1)What concepts did you review in this challenge?
+# 1)we worked on the concept of debugging a problem and error we were getting in
+#  this challenge. This mean to understand more how to deal with errors, what do they indicate, and how to solve them
+
+# 2)What is still confusing to you about Ruby?
+# 2)This concept was about debugging. It is very frustrating to get errors, and we 
+# will get allot of them. The most important goal with errors, is to be okay with getting them, and instead of getting
+#  angry about them, to understand that they are part of the code writing process, and just to focus on how to read
+#   them and solve them, which this is what this challenge was all about. 
+
+# 3)What are you going to study to get more prepared for Phase 1?
+# 3)I am going to make ‘cheatsheet’ in each language, so i'll have my own research
+#  to help me to deal with the challenges.
+
+
